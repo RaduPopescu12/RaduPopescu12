@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaduPopescu12
+- 👋 Hi, I’m @P.R.A.
 - 👀 I’m interested in informatics,matematichs & physichs
 
 <!---
